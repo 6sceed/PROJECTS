@@ -1,1 +1,19 @@
-# PROJECTS
+# 🚀 My Projects Repository
+
+Welcome to my main projects hub!  
+This repository serves as a central directory for all my individual projects.
+
+Click on any project below to view its full source code, documentation, and updates.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📂 Project Index
+
+### 🔹 Medical System
+  [https://github.com/USERNAME/portfolio-website](https://github.com/6sceed/KLDHMS-V2)
+
+
+### 🔹 Voting System
+  [https://github.com/USERNAME/ml-project](https://github.com/6sceed/VotingSystem)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
