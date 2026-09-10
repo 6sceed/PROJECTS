@@ -9,9 +9,9 @@ Click on any project below to view its full source code, documentation, and upda
 
 ## 📂 Project Index
 
-### 🔹 Medical Management System (Java GUI Desktop Application)
-A desktop-based healthcare information system built using Java with a graphical user interface.  
-👉 https://github.com/6sceed/KLDHMS-V2
+### 🔹 FLASED (AI-Powered Flashcard Desktop Application)
+A desktop flashcard application built with Python that uses Gemini to generate flashcards and supports active recall through adaptive review.
+👉 https://github.com/6sceed/Flased
 
 
 ### 🔹 Online Voting System (Web Application)
