@@ -15,6 +15,7 @@ A web-based electronic voting platform for secure and remote elections.
 
 ### 🔹 FLASED (AI-Powered Flashcard Application)
 A desktop flashcard application built with Python that uses Gemini to generate flashcards.
+
 👉 https://github.com/6sceed/Flased
 👉 https://github.com/6sceed/FlasedAPK
 
