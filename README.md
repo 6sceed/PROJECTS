@@ -19,6 +19,16 @@ A desktop flashcard application built with Python that uses Gemini to generate f
 👉 https://github.com/6sceed/Flased
 👉 https://github.com/6sceed/FlasedAPK
 
+### 🔹 APEY (Mobile Application)
+A mobile API usage tracker for monitoring AI API usage, quotas, and limits in one place.
+
+👉 https://github.com/6sceed/APEY
+
+### 🔹 Sault (Mobile Application)
+A personal offline-first mobile app for securely storing and managing private information and personal records.
+
+👉 https://github.com/6sceed/Sault
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
